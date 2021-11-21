@@ -1,0 +1,298 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+
+/* navbar */
+
+#bg-img-top{
+    background-image:url(/IMAGES/BACKGROUN-TOP.jpg) ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 700px;
+
+    
+
+}
+#nav-right-menu ul li{
+    display: inline-block;
+    font-size: 20px;
+    
+}
+#nav-right-menu ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    
+    
+}
+.li-elements{
+    padding-left: 30px;
+
+}
+#brand ul li{
+    display: inline-block;
+     font-size: 20px;
+
+}
+#brand ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    
+}
+#nav-column{
+    padding: 4%;
+}
+#nav-content{
+    font-size: 50px;
+    
+}
+
+/* section 2 below navbar */
+
+#rectangle{
+    background-image: url(/IMAGES/Rectangle\ .png);
+    width: 500px;
+    height: 250px;
+    
+}
+#nav-content h1{
+    color:#aeb4b6;
+
+}
+#nav-content p{
+    color: #ad6c12;
+}
+#nav-content a{
+    text-decoration: none;
+    color: black;
+}
+
+/* section 2 below navbar end */
+
+/* media query */
+
+ /* section 2 indian traditonalflowers --> */
+
+#bg-2{
+    background-color: #2a3b40;
+}
+#main-content{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+#main-content p{
+    font-size:x-small;
+    font-weight: 300;
+}
+
+#img-spoon{
+    width: 311px;
+    margin-top: 10px;
+    padding-top: 26px;
+}
+
+
+/* section 3 bullets points --> */
+#bg-3{
+    background-color: #d4d8d9;
+    padding: 5%;
+}
+
+/* Section 4 india our plate --> */
+
+#bg-img-4{
+    background-image: url(/IMAGES/bg-img-4.png);
+    
+}
+#rect-img1{
+    background-image: url(/images/Rectangle1.png);
+    width: 800px;
+    margin: 10px;
+}
+#rect-img1 h1{
+    color: black;
+
+}
+#rect-img1 {
+
+    color:#ad6c12;
+    font-size: large;
+    font-weight: 900;
+}
+
+
+.menu-heading{
+    font-size: 15px;
+    font-weight: 500;
+}
+.menu-para{
+    font-size: 10px;
+    font-weight: 500;
+    color: black;
+
+}
+
+/* section 5 bullets points */
+
+
+.bg-rect{
+    
+    background-color: #d4d8d9;
+    
+}
+
+.bullet-point-content{
+    padding: 50px;
+}
+#bullet-point ul li{
+    display: inline-block;
+    padding-top: 30px;
+    
+    
+}
+#bullet-point ul li a{
+    text-decoration: none;
+    color:#2a3b40; 
+    
+    
+    
+}
+.bullet-menu{
+    padding-left:50px;
+    padding-top: 10px;
+    font-weight: 700;
+}
+
+#design1 {
+    
+    background-image: url(/IMAGES/design.png);
+    transform: rotate(deg);
+}
+
+#design2 {
+    background-image: url(/IMAGES/design2.png);
+    
+
+    
+}
+  
+  
+    
+
+/* discover our new menu */
+#bg-6{
+    background-image: url(/IMAGES/full-background-5.jpg);
+}
+.blank-class{
+    height: 300px;
+}
+.bg-rect-discmenu{
+    background-image: url(/IMAGES/Rectangle-new.png);
+}
+.menu-heading{
+    font-size:500;
+}
+.menu-para{
+    font-size:small
+
+}
+.blank-class-2{
+    height: 300px;
+    background-image: url(/IMAGES/full-background-3.jpg);
+}
+
+
+/* book here */
+#bg-7{
+        background-color: #2a3b40;
+        
+       
+}
+
+#book-here-heading{
+    margin-top: 2%;
+}
+.submit-btn{
+    border-radius: 10%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#form1{
+    margin-top: 2%;
+
+}
+.blank-class-3{
+    height: 300px;
+    background-image: url(/IMAGES/full-background-3.jpg);
+
+}
+
+/* discover our new menu */
+.new-menu-cont{
+    border: 1px solid grey;
+    border-top: 0;
+    background-image: url(/IMAGES/Rectangle-new.png);
+    width: 340pX;
+    
+}
+#bg-img-7{
+    background-color: #d4d8d9;
+}
+
+#section-new-menu{
+    padding-bottom: 10%;
+}
+
+/* quote section */
+
+#quote-section{
+    background-color: #2a3b40;
+    font-size: large;
+    padding-top: 1%;
+}
+#icon{
+    padding-top: 3%;
+    padding-bottom: 2%;
+    
+}
+.icon-img{
+    margin:2% ;
+    
+}
+
+
+/* footer */
+
+#footer ul li{
+    display: block;
+    font-weight: bold;
+     margin-left: 0;
+    margin-right: 0;
+    
+}
+#footer ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 0;
+    margin-right: 0;
+    
+    
+
+}
+
+#footer{
+    background-color: #d4d8d9;
+     margin-left: 0;
+    margin-right: 0;
+    padding: 0 3%;
+    
+}
+element.style {
+    padding-left: 0px;
+    padding-right: 0px;
+}

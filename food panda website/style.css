@@ -1,0 +1,309 @@
+
+/* carosel content */
+.h5, h5 {
+        padding-bottom: 35%;
+    text-shadow: 0px 0px 5px rgb(0 0 0 / 12%);
+    font-size: xx-large;
+}
+/* #navbar-fixes-top{
+    position: fixed;
+    height: 200px;
+} */
+
+.nav-color-pink{
+    color:#d70f64 !important; 
+}
+
+/* flag */
+
+
+.flag ul li{
+    display: inline-block;
+    
+}
+
+
+.flag ul{
+     position: relative;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 50px;
+    
+}
+
+.flag ul li a img{
+    width: 40px;
+    height:30px;
+    border-radius: 3px;
+    padding-left: 10px;
+    border: 0;
+}
+#flag-list{
+    background: rgba(0, 0, 0, 0.3);
+    height: 50px;
+}
+
+.location-tag p{
+    font-weight: 800;
+    font-size: 8px;
+    color: white;
+   
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+
+
+
+
+/* section -3 about section */
+#about-us{
+    height: 500px;
+   
+}
+#about-us h2{
+    font-weight: 400;
+    color: #d70f64;
+    letter-spacing: 1px;
+
+}
+#about-us p{
+    font-weight: 300;
+    color: #333;
+}
+
+
+#about-us-content{
+    padding-top: 150px;
+   
+    
+}
+.btn-abt{
+    background-color: #d70f64;
+    color: white;
+    border: 0;
+    width: 23%;
+    font-size: 14px;
+    height: 48px;
+    font-weight: 500;
+    min-width: 160px;
+    padding: 0 15px;
+    font-size: 14px; 
+    border: 0;
+    border-radius: 0;
+
+}
+
+/* section-4 carreres */
+
+
+/* parallax */
+.parallax1{
+    background-image: url(/images/paralax-1.jpg);
+    height: 100%;
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2{
+    background-image: url(images/paralax-2.jpg);
+    height: 100%;
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+#careers{
+    height: 500px;
+    letter-spacing: 1px;
+
+}
+#careers h2{
+    color:#d70f64;
+    font-weight: 400;
+    
+}
+#careers p{
+    font-weight: 300;
+    color:white;
+    font-size: 18px;
+    line-height: 1.6;
+    
+
+}
+
+#carrer-content{
+    padding-top: 150px;
+}
+
+#carrer-content button{
+    color: #fff;
+    background-color: #d70f64;
+    width: 23%;
+    min-width: 160px;
+    font-weight: 500;
+    height: 48px;
+    border-radius: 0;
+    border: 0;  
+     
+    padding: 0 15px;
+    font-size: 14px; 
+}
+
+ /* section-5 press */
+ #press{
+     height: 500px;
+    
+ }
+ #press-content{
+     padding-top: 150px;
+
+ }
+
+ #press-content h2{
+      color:#d70f64;
+    font-weight: 400;
+
+ }
+
+ #press-content P{
+     font-weight: 300;
+    color: white;
+    font-size: 18px;
+    line-height: 1.6;
+   
+     
+ }
+ #press-content button{
+     color: #fff;
+    background-color: #d70f64;
+    width: 23%;
+    min-width: 160px;
+    font-weight: 500;
+    height: 48px;
+    border-radius: 0;
+    border: 0; 
+    padding: 0 15px;
+    font-size: 14px;
+
+ }
+
+  /* section 6 conatct us */
+  #contact{
+      height: 500px;
+    
+    background-color: #d70f64;
+
+  }
+  #contact-content{
+      padding-top: 150px;
+      
+      
+  }
+
+  #contact-content h2{
+      color:white;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 30px;
+
+
+  }
+  #contact-content p{
+       font-weight: 300;
+    color: white;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 300;
+    
+
+  }
+  #contact-content button{
+       color: #d70f64;
+    background-color: white;
+    width: 23%;
+    min-width: 160px;
+    font-weight: 500;
+    height: 48px;
+    border-radius: 0;
+    border: 0; 
+    padding: 0 15px;
+    font-size: 14px;
+
+  }
+
+  
+/* footer */
+ 
+  
+   
+  #footer-icon-img img{
+      width: 120px;
+  }
+  #footer-icon-img{
+      position: relative;
+  }
+
+
+
+#footer-social-md img{
+      width: 30px; 
+      padding: 2px;   
+  }
+
+.social-md-container{
+      display: flex;
+      justify-content: flex-end;
+      
+
+  }
+
+#footer{
+    height: 90px;
+    margin-top: 30px;
+}
+
+/* footer content */
+
+#footer-content{
+   
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 5px;
+}
+
+#footer-content ul{
+    padding-right: -200px;
+}
+#footer-content ul li{
+    display: inline-block;
+    
+
+}
+#footer-content ul li a{
+    text-decoration: none;  
+    color: #333;
+    font-weight: 300;
+    font-size: 16px;
+     
+
+}
+#footer-row-2{
+    margin-top: -70px;
+}
+
+
+#footer-copy p{
+    
+    margin-left: -60px;
+    color: #333;
+    font-weight: 300;
+    font-size: 16px;
+}
